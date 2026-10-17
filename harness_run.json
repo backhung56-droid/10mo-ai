@@ -1,0 +1,17 @@
+{
+  "checks": {
+    "all_required_files": true,
+    "korean_page_language": true,
+    "one_h1": true,
+    "five_application_links": true,
+    "all_links_match_user_form": true,
+    "images_have_alt": true,
+    "mobile_375_css": true,
+    "tablet_768_css": true,
+    "reduced_motion": true,
+    "no_fake_free_guarantee": true
+  },
+  "missing": [],
+  "passed": true,
+  "url": "https://forms.gle/vKgXhViRCCGvM8Z98"
+}
